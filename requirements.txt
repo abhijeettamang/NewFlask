@@ -1,0 +1,4 @@
+Collecting freeze
+  Downloading freeze-0.0.1-py3-none-any.whl (1.0 kB)
+Installing collected packages: freeze
+Successfully installed freeze-0.0.1
